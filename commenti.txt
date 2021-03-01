@@ -1,0 +1,3 @@
+docs.emmet.io/cheat-sheet contiene la lista delle shortcut per usare emmet
+<meta charset="utf-8"> dice al browser che deve fare l'encoding con lo standard utf 8 encoding
+unicode-table.com contiene tutti i caratteri unicode validi
